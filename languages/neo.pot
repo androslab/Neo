@@ -1,0 +1,3565 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Pixelentity
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: Neo 1.0.0\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2012-08-28 12:38+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: carousel.php:10
+msgid   "Latest Projects"
+msgstr  ""
+
+#: carousel.php:10
+msgid   "Related Projects"
+msgstr  ""
+
+#: comments.php:16
+msgid   "Comments"
+msgstr  ""
+
+#: common-pager.php:33
+msgid   "Previous Post"
+msgstr  ""
+
+#: common-pager.php:36
+msgid   "Next Post"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:14
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:49
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:35
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:26
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:30
+msgid   "Image"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:16
+msgid   "Select a background image."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:23
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:36
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:76
+#: theme/php/PeTheme/PeThemeNeo.php:590
+msgid   "Background"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:38
+msgid   "This option controls the backgrounds type.<br/><span><strong>Default</strong> uses global setting (defined in theme options).<br/></span><strong>Color</strong> means the image will be shown in the background in full color.<br/><strong>Black & White</strong> means it will be shown in greyscale and <br/><strong>None</strong> disables the custom background component."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:39
+msgid   "Black&White"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:39
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:15
+msgid   "Color"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:39
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:78
+#: framework/php/PeTheme/Constant/PeThemeConstantFonts.php:9
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:150
+#: framework/php/PeTheme/FormElement/PeThemeFormElementFonts.php:23
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:41
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:56
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:41
+msgid   "Default"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:39
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:132
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:91
+msgid   "None"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:44
+msgid   "Type"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:46
+msgid   "<strong>Image</strong> means you can select a static image,<br/><strong>Slider</strong> means a background image will be set according to the current slide as shown in the first slider of that page,<br/><strong>Gallery</strong> means a slideshow is displayed of a selected gallery's images.<br/>These may be overwritten on a page by page basis by setting different background options in specific pages."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:50
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:106
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:187
+msgid   "Slider"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:51
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:130
+#: framework/php/PeTheme/PeThemeController.php:250
+msgid   "Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:59
+msgid   "Overlay"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:61
+msgid   "This option allows a tiled pattern overlay to be applied to the background."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:67
+msgid   "Pattern"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantBackground.php:69
+msgid   "Select a background pattern tile."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantContact.php:9
+#: framework/php/PeTheme/PeThemeController.php:131
+#: framework/php/PeTheme/PeThemeController.php:139
+msgid   "Contact Form"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantContact.php:18
+msgid   "Mail Sent Message"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantContact.php:20
+msgid   "Message shown when form message has been sent without errors"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantContact.php:25
+msgid   "Form Error Message"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantContact.php:27
+msgid   "Message shown when form message encountered errors"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantData.php:12
+#: framework/php/PeTheme/PeThemeController.php:88
+#: framework/php/PeTheme/PeThemeController.php:97
+#: framework/php/PeTheme/PeThemeController.php:106
+#: framework/php/PeTheme/PeThemeController.php:115
+#: framework/php/PeTheme/PeThemeController.php:124
+#: framework/php/PeTheme/PeThemeController.php:184
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:28
+msgid   "Yes"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantData.php:13
+#: framework/php/PeTheme/PeThemeController.php:88
+#: framework/php/PeTheme/PeThemeController.php:97
+#: framework/php/PeTheme/PeThemeController.php:106
+#: framework/php/PeTheme/PeThemeController.php:115
+#: framework/php/PeTheme/PeThemeController.php:124
+#: framework/php/PeTheme/PeThemeController.php:184
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:28
+msgid   "No"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantData.php:18
+msgid   "Don't Auto Rotate Slides"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantData.php:183
+msgid   "Icon Type"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantData.php:185
+msgid   "Select the desired icon type. See the help documentation for a link to view the available icons"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:12
+msgid   "Use Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:14
+msgid   "Select which gallery to use as content. For a gallery to appear in this list it must first be created. See the help documentation section on 'Creating a Gallery Custom Post Type'"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:24
+msgid   "Slider Type"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:26
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:174
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:216
+msgid   "Time in seconds before the slider rotates to next slide"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:40
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:86
+msgid   "Gallery Options"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:51
+#: framework/php/PeTheme/PeThemeGallery.php:588
+#: theme/php/PeTheme/PeThemeNeo.php:95
+msgid   "Images"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:53
+msgid   "<strong>Direct upload</strong> lets you add images by dragging and dropping them directly from your computer.<br/><strong>Media Tag</strong> includes all the already uploaded images that match the selected media tags. See the help documentation for an explanation of Media Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:54
+msgid   "Direct Upload"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:54
+msgid   "Media Tag (all)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:54
+msgid   "Media Tag (any)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:59
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:60
+msgid   "Sorting"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:62
+msgid   "Manual"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:62
+msgid   "Newest First"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:67
+msgid   "Media Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:70
+msgid   "The list on the left shows all existing media tags. These tags are automatically added to uploaded content to allow for easy reuse and organisation of all media content. Select the tags from which you would like to include their related media, in this gallery. Once you have made your selection, click the \"Refresh\" button in the \"Gallery Content\" section below. See the help documentation for a detailed explanation of Media Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:75
+msgid   "Upload Gallery Images"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:76
+msgid   "Add one or more media tags"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:98
+msgid   "Show Images As"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:100
+msgid   "Specify how the gallery's content images will be displayed"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:103
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:185
+msgid   "Thumbnails grid"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:104
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:186
+msgid   "Fullscreen lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:105
+msgid   "Single images"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:125
+msgid   "Show Gallery Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:127
+msgid   "Specify how the gallery's title will be shown. This mainly applies to the fullscreen lightbox gallery option. <strong>Gallery</strong> keeps the original gallery name as its title. <strong>Custom</strong> allows a custom gallery name to be used for just this instance. <strong>None</strong> hides the gallery title"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:131
+msgid   "Custom"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:138
+msgid   "Custom Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:140
+msgid   "Optional gallery title"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:145
+msgid   "Lightbox Gallery Transition"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:147
+msgid   "Choose image transition when viewed inside the lightbox: <strong>Slide</strong> Slides left/right. <strong>Shutter</strong> Black and white zoom effect. <strong>Default</strong> selects transition based on <i>Show Images As</i> value: Slide for Thumnails grid, Shutter for Fullscreen."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:151
+msgid   "Slide"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:152
+msgid   "Shutter"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:158
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:33
+msgid   "Scale Mode"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:160
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:35
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:45
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:17
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:36
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:46
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:56
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:66
+#: framework/php/PeTheme/PeThemeController.php:46
+#: framework/php/PeTheme/PeThemeController.php:54
+#: framework/php/PeTheme/PeThemeController.php:62
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:26
+#: theme/php/PeTheme/PeThemeNeo.php:544 theme/php/PeTheme/PeThemeNeo.php:553
+#: theme/php/PeTheme/PeThemeNeo.php:561 theme/php/PeTheme/PeThemeNeo.php:569
+msgid   "General"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:161
+msgid   "This setting determins how the images are scaled / cropped when displayed in the browser window.\"<strong>Fit</strong>\" fits the whole image into the browser ignoring surrounding space.\"<strong>Fill</strong>\" fills the whole browser area by cropping the image if necessary. The Max version will also upscale the image."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:163
+msgid   "Fit"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:164
+msgid   "Fit (Max)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:165
+msgid   "Fill"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:166
+msgid   "Fill (Max)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:172
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:214
+msgid   "Delay"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGallery.php:193
+msgid   "Slider Options"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:9
+msgid   "Google Map"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:18
+msgid   "Show Google Map"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:20
+msgid   "Specify whether or not to show the Google map"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:26
+msgid   "Latitude"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:28
+msgid   "Latitudinal location for the map center. See the help documentation for a link to a utility used to convert addresses into lat/long numbers"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:33
+msgid   "Longitude"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:35
+msgid   "Longitudinal location for the map center. See the help documentation for a link to a utility used to convert addresses into lat/long numbers"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:40
+msgid   "Zoom Level"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:42
+msgid   "Enter the zoom level of the map upon page load. The user is then free to adjust this zoom level using the map UI"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:47
+msgid   "Map Marker Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:49
+msgid   "Enter a title for the map marker flyout"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:54
+msgid   "Map Marker Description"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantGmap.php:56
+msgid   "Enter a description for the map marker flyout"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:12
+msgid   "FILL"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:13
+msgid   "FIT"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:18
+msgid   "Top Left"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:19
+msgid   "Top Center"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:20
+msgid   "Top Right"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:21
+msgid   "Center Left"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:22
+msgid   "Center Center"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:23
+msgid   "Center Right"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:24
+msgid   "Bottom Left"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:25
+msgid   "Bottom Center"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:26
+msgid   "Bottom Right"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:36
+msgid   "This setting determins how the images are scaled / cropped when displayed in the browser window.\"<strong>Fit</strong>\" fits the whole image into the browser ignoring surrounding space.\"<strong>Fill</strong>\" fills the whole browser area by cropping the image if necessary"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:43
+msgid   "Image Alignment"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:46
+msgid   "Specify the alignment to be used in the event of the image being cropped. Use this to ensure that important parts of the image can be always seen."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:54
+#: framework/php/PeTheme/Constant/PeThemeConstantImage.php:73
+msgid   "Image Options"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:9
+msgid   "Portfolio"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:9
+msgid   "Columns"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:21
+msgid   "Specify the layout arrangement of columns for the project items. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:24
+msgid   "Single column (no grid)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:25
+msgid   "2 Columns"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:26
+#: theme/php/PeTheme/PeThemeNeo.php:623
+msgid   "3 Columns"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:27
+#: theme/php/PeTheme/PeThemeNeo.php:623
+msgid   "4 Columns"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:28
+msgid   "6 Columns"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:34
+msgid   "Allow Filtering"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:36
+msgid   "Specify if the project filter keywords are shown in this page. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:42
+msgid   "Only Include Projects With The Following Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantPortfolio.php:45
+msgid   "Only include projects in this page based on specific keywords/tags. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:12
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:86
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:27 loop-compact.php:6
+#: loop-search.php:6 theme/php/PeTheme/PeThemeNeo.php:491
+msgid   "Project"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:23
+msgid   "Subtitle"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:25
+msgid   "Specify a project subtitle. This will be shown on the portfolio single column page as well as the single project pages. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:30
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:9
+msgid   "Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:32
+msgid   "Select an icon which represents the contents or theme of this project. This icon will be shown on all portfolio and project pages. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:36
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:32
+msgid   "Film"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:37
+#: framework/php/PeTheme/PeThemeController.php:272
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Video.php:11
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Video.php:12
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeVideo.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeVideo.php:10
+msgid   "Video"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:38
+msgid   "Music"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:39
+msgid   "File"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:40
+msgid   "Review"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:41
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:38
+msgid   "List"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:42
+msgid   "Thumbnails"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:43
+msgid   "Book"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:44
+msgid   "Photography"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:45
+msgid   "Typography"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:46
+msgid   "Private"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:47
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:43
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:58
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:43
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeInfo.php:9
+msgid   "Info"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:48
+msgid   "Event"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:49
+msgid   "Commentary"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:50
+msgid   "Announcement"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:51
+msgid   "Business"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:52
+msgid   "World"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:53
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:36
+msgid   "Location"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:54
+msgid   "Illustration"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:55
+msgid   "Person"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:66
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:16
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:14
+#: theme/php/PeTheme/PeThemeNeo.php:619
+msgid   "Layout"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:68
+msgid   "Select project layout."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:76
+msgid   "Featured Project"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantProject.php:88
+msgid   "Select the project you wish to be featured. (Shown full width at top of page)"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantQuote.php:10
+msgid   "Quote Options"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantQuote.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:43
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:43
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:68
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:37
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:67
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:38
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:14
+#: theme/php/PeTheme/PeThemeNeo.php:679 theme/php/PeTheme/PeThemeNeo.php:729
+msgid   "Content"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantQuote.php:21
+msgid   "Text content of the quote box. ( Basic HTML is supported )"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantQuote.php:26
+msgid   "Cite"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantQuote.php:28
+msgid   "Quote cite"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:9
+msgid   "No sidebar"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:15
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:27
+msgid   "Sidebar"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:18
+msgid   "Select which sidebar to use"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantSidebar.php:42
+#: theme/php/PeTheme/PeThemeNeo.php:621 theme/php/PeTheme/PeThemeNeo.php:630
+#: theme/php/PeTheme/PeThemeNeo.php:638
+msgid   "Footer"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:17
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:20
+msgid   "Youtube"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:18
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:21
+msgid   "Vimeo"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:22
+msgid   "Local video"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:23
+msgid   "Vid.ly"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:25
+msgid   "Mp4"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:26
+msgid   "Ogg"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:27
+msgid   "Webm"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:34
+msgid   "Video Type"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:37
+msgid   "Select which type of video you would like to insert."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:44
+msgid   "Video Url"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:47
+msgid   "Insert here the full path to the video file. In the case of a local video click the upload button to select a video file to upload. "
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:54
+msgid   "Available Formats"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:57
+msgid   "Some browsers require a video to be uploaded in a specific format. Select the formats uploaded from this list so that they can be served to visitors using those browsers."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:64
+msgid   "Placeholder Image"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:67
+msgid   "This is the image which will be used as the video cover and will disappear once the video begins playing. Enter here the link to this image or click the upload button to upload an image using the WordPress media loader"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:70
+#, php-format
+msgid   "<a href=\"%s\">Create a new Video</a>"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:70
+msgid   "Select which video to use"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:74
+msgid   "Use video"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:86
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:110
+msgid   "Video Options"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:99
+msgid   "Play fullscreen"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstantVideo.php:101
+msgid   "Specify if video should play in a fullscreen lightbox window."
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:11
+msgid   "Transition"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:13
+msgid   "Transition type"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:16
+msgid   "Random"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:17
+msgid   "Cube Horizontal"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:18
+msgid   "Cube Vertical"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:19
+#: framework/php/PeTheme/PeThemeCaption.php:83
+msgid   "Fade"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:20
+msgid   "Slice Horizontal"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:21
+msgid   "Slice Vertical"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:22
+msgid   "Slide Horizontal"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:23
+msgid   "Slide Vertical"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:24
+msgid   "Scale"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:25
+msgid   "Block scale"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:26
+msgid   "Kaleidoscope"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:27
+msgid   "Fan"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:28
+msgid   "Blind Horizontal"
+msgstr  ""
+
+#: framework/php/PeTheme/Constant/PeThemeConstant_perefineslide.php:29
+msgid   "Blind Vertical"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementColor.php:13
+#, php-format
+msgid   "Click text box for color picker. %sRestore default%s"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementDropUpload.php:14
+msgid   "Drop files here"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementDropUpload.php:15
+msgid   "or"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementDropUpload.php:16
+msgid   "Select Files"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementDropUpload.php:31
+msgid   "Allowed Files"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementImportDemo.php:12
+#: framework/php/PeTheme/PeThemeController.php:44
+msgid   "Import Demo Content"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementImportDemo.php:14
+msgid   "Importing content, please wait - Do not close the page until the process ends."
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementImportDemo.php:15
+msgid   "Demo content successfully imported."
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementImportDemo.php:16
+msgid   "Error occurred while importing the data"
+msgstr  ""
+
+#: framework/php/PeTheme/FormElement/PeThemeFormElementSidebars.php:55
+msgid   "Add new"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeAdmin.php:18
+#: framework/php/PeTheme/PeThemeAdmin.php:19
+#: framework/php/PeTheme/PeThemeAdmin.php:193
+msgid   "Theme Options"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeAdmin.php:111
+#: framework/php/PeTheme/PeThemeGallery.php:139
+msgid   "No Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeAdmin.php:131
+msgid   "Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeAdmin.php:201
+msgid   "You don't have sufficient permissions"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:33
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:9
+msgid   "Link"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:36
+msgid   "Optional image links."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:41
+msgid   "Captions"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:44
+msgid   "Set the title (internal use only) and click 'Add new' to create a new caption."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:45
+msgid   "Add New"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:53
+msgid   "Accept changes and close the dialog"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:56
+msgid   "Remember to publish -> update the Gallery post for changes to be saved."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:61
+msgid   "Alignment"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:65
+msgid   "Caption alignment."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:70
+msgid   "Margins (Top, Left)"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:73
+msgid   "Once caption is aligned, you can set additional margins. The paramenter accepts values in the format 'top,left' where 'top' and 'left' are numbers (pixels) which can also be negative."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:78
+msgid   "Transition Type"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:84
+msgid   "Fly from left"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:85
+msgid   "Fly from right"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:86
+msgid   "Fly from top"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:87
+msgid   "Fly from bottom"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:89
+msgid   "Caption animation type."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:94
+msgid   "Initial Delay"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:97
+msgid   "Delay in seconds before the caption animations begins."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:102
+msgid   "Background color"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:105
+msgid   "Caption background color"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:110
+msgid   "Background opacity."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:115
+msgid   "No background"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:116
+msgid   "10%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:117
+msgid   "20%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:118
+msgid   "30%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:119
+msgid   "40%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:120
+msgid   "50%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:121
+msgid   "60%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:122
+msgid   "70%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:123
+msgid   "80%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:124
+msgid   "90%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:125
+msgid   "100%"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:127
+msgid   "Caption background opacity."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:132
+msgid   "Visible for"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:137
+msgid   "All devices"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:138
+msgid   "Phones in landscape mode, Tablets, Desktops"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:139
+msgid   "Tablets, Desktops"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:140
+msgid   "Desktops"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:142
+msgid   "Controls caption visibility according to device viewport width."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:147
+msgid   "Caption Content"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:150
+msgid   "Caption content in HTML format."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:155
+msgid   "Save current caption"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:158
+msgid   "Save the current caption configuration."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCaption.php:230
+#: framework/php/PeTheme/PeThemeSCManager.php:92
+msgid   "Insert Shortcode"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCategory.php:9
+#: framework/php/PeTheme/PeThemeGallery.php:61
+#: framework/php/PeTheme/PeThemeProject.php:58
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:58
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:66
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:74
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:28
+msgid   "All"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeCategory.php:26
+msgid   "No categories"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeColor.php:19
+msgid   "Colors"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:43
+#, php-format
+msgid   "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:48
+#, php-format
+msgid   "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:148
+msgid   "Your comment is awaiting moderation."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:153
+#, php-format
+msgid   "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:156
+#, php-format
+msgid   "%1$s at %2$s"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeComments.php:158
+msgid   "(Edit)"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeContent.php:373 loop-mini.php:21
+msgid   "more"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:13
+msgid   "Main menu"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:35
+msgid   "Pixelentity (slide, touchenabled)"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:39
+msgid   "Branding"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:47
+msgid   "Will import all demo data, including menus, sidebars, widgets and configuration"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:52
+msgid   "Custom CSS"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:55
+msgid   "Here you can enter custom CSS selectors to add to or overwrite the theme's default CSS styles. See the help documentation for some code snippets which can be pasted here"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:60
+msgid   "Custom JS"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:63
+msgid   "Here you can enter custom javascript code and it will be added to the theme's existing javascript code"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:68
+msgid   "Custom Admin Panel Logo"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:71
+msgid   "Enter the url of the logo you would like to be displayed in this theme's custom options panel. The image should be aprox. 170x50px .png file. This field is hidden to prevent further rebranding. See the help docs for more info."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:76
+msgid   "Custom Admin Panel Url"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:79
+msgid   "This is the link which will be added to the theme options panel's custom logo. This field is also hidden"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:84
+msgid   "Enable Javascript Compression"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:86
+#: framework/php/PeTheme/PeThemeController.php:95
+#: framework/php/PeTheme/PeThemeController.php:104
+#: framework/php/PeTheme/PeThemeController.php:113
+#: framework/php/PeTheme/PeThemeController.php:122
+msgid   "Advanced"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:87
+msgid   "If set to \"YES\", a single compressed javascript file will be loaded instead of multiple ones: site will load faster but any customization you made to theme javascript sources will be ignored"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:93
+msgid   "Enable CSS Compression"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:96
+msgid   "If set to \"YES\", a single compressed css file will be loaded instead of multiple ones: site will load faster but any customization you made to style.css or other theme stylesheet will be ignored"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:102
+msgid   "Show Thumbnails"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:105
+msgid   "If set to \"YES\", shows thumbnails (featured images) in admin post list view."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:111
+msgid   "Enable Quick Browse Mode"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:114
+msgid   "If set to \"YES\", a new tab will appear in the default WordPress media uploader. This tab, named \"Quick Browse\" will display a filterable thumbnail grid of all uploaded media content. Media may be selected from this grid and added to galleries, posts and pages. When disabled, some functions related Galleries managment won't be available."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:120
+msgid   "Make Quick Browse the Default Tab"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:123
+msgid   "If set to \"YES\" the default WordPress Media Loader's dialog  will display this \"Quick Browse\" mode as its default tab."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:129
+msgid   "Email Address"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:132
+msgid   "Enter the email address where the contact form emails will be sent. If this field is left blank, the Admin email address will be used. The Admin email address is that entered in General Settings > Email Address."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:137
+msgid   "Subject Line"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:140
+msgid   "Enter a custom subject line which will appear on all email sent from the contact form. This is useful when setting up email filters."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:145
+msgid   "Check for Theme Updates"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:147
+#: framework/php/PeTheme/PeThemeController.php:162
+#: framework/php/PeTheme/PeThemeController.php:170
+msgid   "Auto Update"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:148
+msgid   "Specify when theme should automatically check for updates."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:151
+msgid   "Never"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:152
+msgid   "Each 6 hours"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:153
+msgid   "Daily"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:154
+msgid   "Weekly"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:160
+msgid   "Envato Username"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:163
+msgid   "Insert your Envato Username (account used to purchase this theme)."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:168
+msgid   "API Key"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:171
+#, php-format
+msgid   "Insert your API Key %swhich can be obtained here%s. (Generate one if none available)"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:180
+msgid   "Enable NextGen Plugin Integration"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:182
+#: framework/php/PeTheme/PeThemeController.php:192
+msgid   "NextGen"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:183
+msgid   "If you have installed the NextGEN Gallery plugin, this option will enable it to be auto configured. See help docs for more info."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:190
+msgid   "Gallery columns"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:193
+msgid   "Select the number of columns to be shown in the NextGen galleries"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:219
+msgid   "Media-Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:220
+msgid   "Media-Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:221
+msgid   "Search Media-Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:222
+msgid   "Popular Media-Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:223
+msgid   "All Media-Tags"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:224
+msgid   "Parent Media-Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:225
+msgid   "Parent Media-Tag:"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:226
+msgid   "Edit Media-Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:227
+msgid   "Update Media-Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:228
+msgid   "Add New Media-Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:229
+msgid   "New Media-Tag Name"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:249
+msgid   "Galleries"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:251
+#: framework/php/PeTheme/PeThemeController.php:259
+msgid   "Add New Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:252
+msgid   "Search Galleries"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:253
+msgid   "Popular Galleries"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:254
+msgid   "All Galleries"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:255
+msgid   "Parent Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:256
+msgid   "Parent Gallery:"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:257
+msgid   "Edit Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:258
+msgid   "Update Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:260
+msgid   "New Gallery Name"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:271
+msgid   "Videos"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:273
+#: framework/php/PeTheme/PeThemeController.php:281
+msgid   "Add New Video"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:274
+msgid   "Search Videos"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:275
+msgid   "Popular Videos"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:276
+msgid   "All Videos"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:277
+msgid   "Parent Video"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:278
+msgid   "Parent Video:"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:279
+msgid   "Edit Video"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:280
+msgid   "Update Video"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeController.php:282
+msgid   "New Video Name"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeFont.php:20
+#: theme/php/PeTheme/PeThemeNeo.php:579
+msgid   "Google Fonts"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeGallery.php:62
+msgid   "Not Tagged"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeGallery.php:199
+msgid   "No galleries defined, please create one"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeGallery.php:572
+msgid   "Quick Browse"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeHeader.php:21
+#, php-format
+msgid   "Page %s"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:30
+msgid   "Parsing import file"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:35
+msgid   "Importing categories"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:40
+msgid   "Importing terms"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:45
+msgid   "Importing posts"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:50
+msgid   "Fixing orphans"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:60
+msgid   "Fixing urls"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:107
+msgid   "Remapping images"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeImporter.php:137
+msgid   "Final cleanup"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeProject.php:13
+msgid   "No project defined, please create one"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeSCManager.php:118
+msgid   "Shortcode"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeSidebar.php:18
+msgid   "Dynamic sidebar"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:44
+msgid   "Cancel Reply"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:44
+msgid   "Leave A Comment"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:57
+msgid   "Your email address will not be published. Required fields are marked"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:107
+msgid   "The comments are now closed."
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:311
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:58
+msgid   "Prev"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeTemplate.php:319
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:57
+msgid   "Next"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeUpdate.php:68
+msgid   "Theme Update Available"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeUpdate.php:68
+msgid   "Update"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeUpdate.php:82
+msgid   "Update Theme"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeUpdate.php:84
+msgid   "Return to Theme Options Page"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeUpdate.php:85
+msgid   "Theme was successfully updated"
+msgstr  ""
+
+#: framework/php/PeTheme/PeThemeVideo.php:26
+msgid   "No videos defined"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcode.php:22
+msgid   "DEFAULT"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Accordion.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:10
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tabs.php:12
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Testimonial.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeClearfix.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeProperties.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:8
+msgid   "LAYOUT"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Accordion.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Accordion.php:10
+msgid   "Accordion"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Accordion.php:14
+msgid   "Number of items"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Accordion.php:17
+msgid   "Select the number of items in the accordion."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:9
+msgid   "Alert Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:10
+msgid   "Add an Alert Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:14
+msgid   "Alert Box Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:16
+msgid   "Select the type of Alert Box required. The alert type determines the color of the box and text"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:42
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:57
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:42
+msgid   "Primary"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:44
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:59
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:44
+msgid   "Success"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:23
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:23
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:23
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:45
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:60
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:45
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:25
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeWarning.php:8
+msgid   "Warning"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:46
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:61
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:46
+msgid   "Danger"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:25
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:25
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:25
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:24
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:47
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:62
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:47
+msgid   "Inverse"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:31
+msgid   "Alert Box Layout"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:33
+msgid   "Select the layout based on what type of content the box will hold, inline content or block content"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:36
+msgid   "Block"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:37
+msgid   "Inline"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Alert.php:45
+msgid   "Enter the Alert Box content here ( Basic HTML supported )."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:8
+msgid   "UI"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:9
+msgid   "Badge"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:10
+msgid   "Add a badge"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:14
+msgid   "Badge Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:16
+msgid   "Select the type of badge required. The badge type determines the bodge color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:23
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:23
+msgid   "Important"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:30
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:44
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:30
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:28
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:28
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:34
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:20
+msgid   "Url"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:32
+msgid   "Enter the destination url of the badge. Leave this field blank if the badge is not required to be a clickable link"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:36
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:36
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:53
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:53
+msgid   "Label"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Badge.php:38
+msgid   "Enter the badge's text content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:10
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:12
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Widget.php:10
+msgid   "CONTENT"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:11
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:12
+msgid   "Blog"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:18
+msgid   "Select the required post layout. 'Full' - denotes a full width normal blog layout. 'Compact' - denotes a full width list style layout. 'Mini' - denotes a compressed layout with small post thumbnails."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:24
+msgid   "Max Posts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:26
+msgid   "Maximum number of posts to show."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:31
+msgid   "Show Media"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:33
+msgid   "Specify if the post's image/video/gallery media is displayed."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:39
+msgid   "Paged Result"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:41
+msgid   "Display a pager when more posts are found than specified in the 'Maximum' field. "
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:47
+msgid   "Include Sticky Posts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:49
+msgid   "Include sticky posts in the displayed list."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:55
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:25
+msgid   "Category"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:57
+msgid   "Only show posts from a specific category."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:63
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:44
+msgid   "Tag"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:65
+msgid   "Only show posts with a specific tag."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:71
+msgid   "Post Format"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Blog.php:73
+msgid   "Only show posts of a specific format."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:9
+msgid   "Button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:10
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:10
+msgid   "Add a button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:35
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:51
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:35
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:14
+msgid   "Button Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:16
+msgid   "Select the type of button required. The button type determines the boton's color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:31
+msgid   "Button Size"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:33
+msgid   "Select the size of button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:36
+msgid   "Small"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:37
+msgid   "Medium"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:38
+msgid   "Large"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:46
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:70
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:36
+msgid   "Enter the destination url of the button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:50
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:40
+msgid   "Optional Label"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Button.php:52
+msgid   "Enter the button label here. If no text is entered the button will have no label and so will require an icon or something else to be inserted. This can be done using the icon shortcode once this button shortcode has been added to the editor"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:9
+msgid   "Code Block (Syntax Highlighting)"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:10
+msgid   "Add a Code Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:14
+msgid   "Language"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:16
+msgid   "Language type of code block."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:19
+#: framework/php/PeTheme/Widget/PeThemeWidgetHtml.php:12
+msgid   "HTML"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:20
+msgid   "CSS"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:21
+msgid   "Javascript"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:22
+msgid   "PHP"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:23
+msgid   "XML"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:24
+msgid   "SQL"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:30
+msgid   "Options"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:32
+msgid   "Use vertical scrollbar / Show line numbers. If a vertical scrollbar is chosen, the code block's height is fixed as 350px"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:35
+msgid   "Scrollbar"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:36
+msgid   "Line Numbers"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Code.php:45
+msgid   "Enter the content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:10
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:10
+msgid   "Add 2 columns"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:17
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:17
+msgid   "Select the number and proportion of the columns required. The bar will update to show the layout of the chosen arrangement"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:34
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:32
+msgid   "2 Column layouts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:36
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:34
+msgid   "1/2 1/2"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:37
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:35
+msgid   "1/3 2/3"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:38
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:36
+msgid   "2/3 1/3"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:39
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:37
+msgid   "1/4 3/4"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:40
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:38
+msgid   "3/4 1/4"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:41
+msgid   "5/6 1/6"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:42
+msgid   "1/6 5/6"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:45
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:43
+msgid   "3 Column layouts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:47
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:45
+msgid   "1/3 1/3 1/3"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:48
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:46
+msgid   "1/4 1/4 2/4"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:49
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:47
+msgid   "2/4 1/4 1/4"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:53
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:53
+msgid   "4 Column layouts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:55
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:55
+msgid   "1/4 1/4 1/4 1/4"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:59
+msgid   "6 Column layouts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Columns.php:61
+msgid   "1/6 1/6 1/6 1/6 1/6 1/6"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:9
+msgid   "Content Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:10
+msgid   "Add Content Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:15
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:23
+msgid   "Background Color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:17
+msgid   "Select background color for the content box."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:22
+msgid   "Content Padding"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:24
+msgid   "Content padding: Top, Right, Bottom, Left."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:29
+msgid   "Box Content"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_ContentBox.php:31
+msgid   "Enter the box content here. Basic HTML tags are supported."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:9
+msgid   "Divider"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:10
+msgid   "Add a divider"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:14
+msgid   "Divider Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:16
+msgid   "Select the type of divider required."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:19
+msgid   "Solid"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Divider.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:20
+msgid   "Dotted"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:11
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:12
+msgid   "Faq"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:16
+msgid   "Question"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:18
+msgid   "Title of the faq."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:23
+msgid   "Open on Page Load"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:25
+msgid   "If the FAQ item should be open by default"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:31
+msgid   "Answer"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Faq.php:33
+msgid   "Content of the faq."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:9
+msgid   "Feature"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:10
+msgid   "Add a Feature Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:16
+msgid   "Select an icon for this feature. See the help docs for a list of the available icons. "
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:19
+msgid   "Cloud"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:20
+msgid   "Minus"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:21
+msgid   "Plus"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:22
+msgid   "Quote"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:23
+msgid   "Eye"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:25
+msgid   "Heart"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:26
+msgid   "Lightbulb"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:27
+msgid   "Rss"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:28
+msgid   "Award"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:29
+msgid   "Stats"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:30
+msgid   "Star"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:31
+msgid   "Shield"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:33
+msgid   "Lock"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:34
+msgid   "Ribbon"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:35
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:9
+msgid   "Share"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:37
+msgid   "User"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:39
+msgid   "Grid"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:40
+msgid   "Comment"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:41
+msgid   "Map"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:42
+msgid   "Graph"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:43
+msgid   "Settings"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:45
+msgid   "Calendar"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:46
+msgid   "Mail"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:47
+msgid   "Clock"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:48
+msgid   "Lightening"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:49
+msgid   "Camera"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:50
+msgid   "Zoom"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:51
+msgid   "Close"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:52
+msgid   "Tic"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:53
+msgid   "CircleTic"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:54
+msgid   "CircleClose"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:55
+msgid   "Document"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:56
+msgid   "Article"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:59
+msgid   "Down"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:60
+msgid   "Up"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:61
+msgid   "UpRight"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:62
+msgid   "DownLeft"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Feature.php:70
+msgid   "Enter the feature box text content here. Simple HTML tags are supported."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:9
+msgid   "Hero Unit"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:10
+msgid   "Add an Hero Unit"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:14
+msgid   "Hero Unit Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:16
+msgid   "Select the type of hero unit required. the type determines the color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:31
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:60
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:30
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:25
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:20
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:12
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:12
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:13
+#: framework/php/PeTheme/Widget/PeThemeWidgetVideo.php:13
+#: theme/php/PeTheme/PeThemeNeo.php:671
+msgid   "Title"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:33
+msgid   "Enter the title of the Hero Unit."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Hero.php:39
+msgid   "Enter the Hero Unit content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:10
+msgid   "Select the cion type to add. See the help documentation for a link to the list of available icons"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:16
+msgid   "Select color of the icon"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:20
+msgid   "White"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Icon.php:21
+msgid   "Black"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:10
+msgid   "Add a label"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:14
+msgid   "Label Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:16
+msgid   "Select the type of label required. The type determines the label color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:32
+msgid   "Enter the destination url of the label. Leave this field blank if the label is not a clickable link"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Label.php:38
+msgid   "Enter the label content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:9
+msgid   "Popover"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:10
+msgid   "Add a popover"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:14
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:14
+msgid   "Position"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:16
+msgid   "Select the position for the popover"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:19
+msgid   "Top"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:20
+msgid   "Bottom"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:21
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:21
+msgid   "Left"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:22
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:20
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:22
+msgid   "Right"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:30
+msgid   "Enter the destination url of the popover trigger object"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:37
+msgid   "Select the type of button to use as the trigger object"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:40
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:40
+msgid   "No button, use normal text"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:55
+msgid   "Enter the popover trigger button's text label here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:62
+msgid   "Enter the popover title here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Popover.php:69
+msgid   "Enter the popover content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:9
+msgid   "Price Table"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:10
+msgid   "Add an Price Box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:25
+msgid   "Select background color."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:32
+msgid   "Price table title."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:37
+msgid   "Price"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:39
+msgid   "Price table price."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:44
+msgid   "Features"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:46
+msgid   "Enter the pricing tables features, one per line."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:53
+msgid   "Select the type of button required. The type determines the button color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:68
+msgid   "Button Url"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:75
+msgid   "Button Label"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_PriceBox.php:77
+msgid   "Enter the button label here. Leave this field blank to hide the button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:13
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:14
+#: theme/php/PeTheme/PeThemeNeo.php:490 theme/php/PeTheme/PeThemeNeo.php:655
+#: theme/php/PeTheme/PeThemeNeo.php:663
+msgid   "Projects"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:18
+msgid   "Max Projects"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:20
+msgid   "Maximum number of projects to display."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Projects.php:27
+msgid   "Only display projects from a specific category."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:10
+msgid   "Add a social share button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:14
+msgid   "Social Network"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:16
+msgid   "Select the social network on which to share content."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:19
+msgid   "Facebook"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:20
+msgid   "Twitter"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:21
+msgid   "Google +1"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Share.php:22
+msgid   "Pinterest"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:9
+msgid   "Staff"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:10
+msgid   "Add a staff block"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:16
+msgid   "Select position of main image."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:28
+msgid   "Upload the large image. 400x320px aprox. "
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:32
+msgid   "Thumbnail"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:34
+msgid   "Upload the small Image. 110x130px aprox. Leave this field blank if no small images is required."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Staff.php:40
+msgid   "Description content. Simple HTML tags and buttons are supported."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tabs.php:13
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tabs.php:14
+msgid   "Tabs"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tabs.php:18
+msgid   "Number of Tabs"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tabs.php:21
+msgid   "Select the number of tabs to add"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Testimonial.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:10
+msgid   "Testimonial"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Testimonial.php:10
+msgid   "Add a testimonial block"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Testimonial.php:14
+msgid   "Testimonial Content"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Testimonial.php:16
+msgid   "Block content HTML. The 'blockquote' tag contains the quoted content. The 'cite' tag contains the citation for the quoted content."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:60
+msgid   "Tooltip"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:10
+msgid   "Add a tooltip"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:16
+msgid   "Select the tooltip position."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:30
+msgid   "Enter the destination url of the tooltip trigger"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:37
+msgid   "Select the type of button to use. The type determines the button color"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:55
+msgid   "Enter the tooltip trigger label content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Tooltip.php:62
+msgid   "Enter the tooltip content here."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Video.php:10
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeVideo.php:8
+msgid   "MEDIA"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Widget.php:11
+msgid   "Widgets Sidebar"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Widget.php:12
+msgid   "Widget"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Widget.php:16
+msgid   "Widget Area"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeBS_Widget.php:18
+msgid   "Select which widget area to insert. Widget areas need to be created in the 'Theme Options' panel before they will appear in this list."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:16
+msgid   "Select the type of button required. The button type determines the icon displayed on the button"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:19
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeDownload.php:8
+msgid   "Download"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:22
+msgid   "Thumbs"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:23
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:80
+msgid   "Vcard"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:24
+msgid   "Love"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:26
+msgid   "Tweet"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:27
+msgid   "Like"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:28
+msgid   "Note"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeButton.php:42
+msgid   "Enter the button label here. If no text is entered the button will consist of an icon only"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeClearfix.php:9
+msgid   "Clear"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeClearfix.php:10
+msgid   "Description"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:39
+msgid   "1/5 4/5"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:40
+msgid   "4/5 1/5"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:48
+msgid   "2/5 2/5 1/5"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:49
+msgid   "1/5 2/5 2/5"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:59
+msgid   "5 Column layouts"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeColumns.php:61
+msgid   "1/5 1/5 1/5 1/5 1/5"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeDownload.php:9
+msgid   "Add download box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeInfo.php:8
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:8
+msgid   "ALERTS"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeInfo.php:10
+msgid   "Add info box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeInfo.php:14
+msgid   "Alert Text"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeInfo.php:16
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:16
+msgid   "Enter the text content of the alert box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:9
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:10
+msgid   "Lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:14
+msgid   "Media Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:16
+msgid   "Select the type of media to be displayed in the lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:32
+msgid   "This is the large image which will be opened inside the lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:37
+msgid   "Video window"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:39
+msgid   "The size at which the video will be displayed. For best results these values should match the original file's resolution and/or aspect ratio."
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:45
+msgid   "Title (Optional)"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:47
+msgid   "Title to be displayed in the lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:52
+msgid   "Description (Optional)"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLightbox.php:54
+msgid   "Text description to be displayed in the lightbox"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:8
+msgid   "DIVIDERS"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:9
+msgid   "Line"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:10
+msgid   "Add a line"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:14
+msgid   "Line Type"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:16
+msgid   "Select the line type of the divider"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:25
+msgid   "Back to top link"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:27
+msgid   "Select whether the line will contain a button which allows the user to scroll back to the top of the page"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLine.php:40
+msgid   "top &uarr;"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:10
+msgid   "Add link box"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeLink.php:22
+msgid   "Enter the destination url of the alert box when clicked"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeProperties.php:9
+msgid   "Properties"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeProperties.php:10
+msgid   "Item properties"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeProperties.php:14
+msgid   "Number of Properties"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeProperties.php:17
+msgid   "Select the number of property-value pairs the table will contain"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:16
+msgid   "Enter the testimonial or quotation text in this field"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:20
+msgid   "Quotee"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeTestimonial.php:22
+msgid   "Enter the name of the person being quoted"
+msgstr  ""
+
+#: framework/php/PeTheme/ShortCode/PeThemeShortcodeWarning.php:9
+msgid   "Add warning box"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:6
+msgid   "Pixelentity - Contacts"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:7
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:7
+msgid   "Statistical informations and links"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:27
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:22
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:14
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:14
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:15
+#: framework/php/PeTheme/Widget/PeThemeWidgetVideo.php:15
+msgid   "Widget title"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:20
+msgid   "Address Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:22
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:39
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:56
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:73
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:90
+msgid   "Select icon type. See the help documentation for a link to the list of available icons"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:29
+msgid   "Address"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:31
+msgid   "Address box content."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:37
+msgid   "Email Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:46
+msgid   "Email"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:48
+msgid   "Email box content."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:54
+msgid   "Phone Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:63
+msgid   "Phone"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:65
+msgid   "Phone box content."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:71
+msgid   "Vcard Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:82
+msgid   "Vcard box content."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:88
+msgid   "Opening Hours Icon"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:97
+msgid   "Opening Hours"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetContacts.php:99
+msgid   "Opening hours box content."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:6
+msgid   "Pixelentity - Flickr"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:7
+msgid   "Displays Flickr Image Thumbnails"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:15
+msgid   "Widget title."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:20
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:20
+msgid   "Username"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:22
+msgid   "Flickr username ID Number from which to load images."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:27
+msgid   "Number Of Images"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetFlickr.php:29
+msgid   "Select the number of images to be displayed.(3 per row)"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:6
+msgid   "Pixelentity - Gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:7
+msgid   "Show a gallery"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:20
+msgid   "Size"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetGallery.php:22
+msgid   "Gallery widget size"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetHtml.php:6
+msgid   "Pixelentity - Html"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetHtml.php:7
+msgid   "HTML Block"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetHtml.php:14
+msgid   "HTML Content"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:6
+msgid   "Pixelentity - Menu"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:7
+msgid   "Show a menu"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:16
+msgid   "Select a menu"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:18
+msgid   "No menus have been created yet"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:19
+#, php-format
+msgid   "<a href=\"%s\">Create a menu</a>"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetMenu.php:32
+msgid   "Menu"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:6
+msgid   "Pixelentity - Newsletter"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:7
+msgid   "Newsletter subscribe form"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:20
+msgid   "Subscribe Address"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:22
+msgid   "The email address to which subscribers details are sent."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:27
+msgid   "Intro Text"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:29
+msgid   "Text content located before the subscribe field"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:34
+msgid   "Outro Text"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetNewsletter.php:36
+msgid   "Text content located after the subscribe field"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:6
+msgid   "Pixelentity - Project"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:7
+msgid   "Show a project"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:12
+msgid   "Show Latest"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetProject.php:29
+msgid   "Select the project you wish to show"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:6
+msgid   "Pixelentity - Recent posts"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:7
+msgid   "The most recent posts on your site"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:20
+msgid   "Blog Link"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:22
+msgid   "Blog link text. If empty, no link will be shown."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:27
+msgid   "Blog Link Url"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:29
+msgid   "Blog url. If empty, theme will try to autodetect."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:34
+msgid   "Number Of Posts"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:36
+msgid   "Select the number of recent posts to show in this widget."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:43
+msgid   "Excerpt Length"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetRecentPosts.php:45
+msgid   "Excerpt lenght in characters. This number is then rounded so as not to cut a word."
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:6
+msgid   "Pixelentity - Slider"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:7
+msgid   "Show a slider"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:20
+msgid   "Slider Size"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSlider.php:22
+msgid   "The size of the slider in pixels. Written in the form widthxheight"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:6
+msgid   "Pixelentity - Social links"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:7
+msgid   "Link to social profiles"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:19
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:39
+msgid   "Links"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetSocialLinks.php:21
+msgid   "Paste your social media profile links one at a time and hit the Add New button. The link will be added to a table below and the appropriate icon will be automatically selected based on the link's domain name"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:6
+msgid   "Pixelentity - Stats"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:24
+msgid   "Logo/Image"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:27
+msgid   "Logo/Image to be used as the widget title"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:32
+msgid   "Statistics"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:34
+msgid   "Numeric Stats"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetStats.php:41
+msgid   "Additional links"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:6
+msgid   "Pixelentity - Tabs"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:7
+msgid   "Tabbed content"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:19
+msgid   "Tab 1 Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:21
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:37
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:53
+msgid   "Enter the tab title here"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:27
+msgid   "Tab 1 Content"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:29
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:45
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:61
+msgid   "Enter the tab body content here"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:35
+msgid   "Tab 2 Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:43
+msgid   "Tab 2 Content"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:51
+msgid   "Tab 3 Title"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTabs.php:59
+msgid   "Tab 3 Content"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:6
+msgid   "Pixelentity - Twitter"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:7
+msgid   "Displays the latest tweets"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:22
+msgid   "Twitter username from which to load tweets"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:27
+msgid   "Number Of Tweets"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetTwitter.php:29
+msgid   "Select the number of tweets to be displayed"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetVideo.php:6
+msgid   "Pixelentity - Video"
+msgstr  ""
+
+#: framework/php/PeTheme/Widget/PeThemeWidgetVideo.php:7
+msgid   "Show a video"
+msgstr  ""
+
+#: loop-compact.php:4 loop-search.php:4
+msgid   "Page"
+msgstr  ""
+
+#: loop-compact.php:5 loop-search.php:5
+msgid   "Post"
+msgstr  ""
+
+#: loop.php:41
+msgid   "Sticky Post"
+msgstr  ""
+
+#: loop.php:60
+msgid   "Posted by "
+msgstr  ""
+
+#: loop.php:62
+msgid   "Tagged as "
+msgstr  ""
+
+#: loop.php:63
+msgid   "Edit Post"
+msgstr  ""
+
+#: loop.php:63
+msgid   "With "
+msgstr  ""
+
+#: project-featured.php:11
+msgid   "Featured:"
+msgstr  ""
+
+#: searchform.php:2
+msgid   "Search"
+msgstr  ""
+
+#: single-gallery.php:23 single-post.php:22 single-video.php:23
+msgid   "Posted on "
+msgstr  ""
+
+#: single-gallery.php:23 single-post.php:22 single-video.php:23
+msgid   "by"
+msgstr  ""
+
+#: single-post.php:22
+msgid   "in"
+msgstr  ""
+
+#: single-post.php:22
+msgid   "tagged"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:48
+msgid   "Refine (Multiple transition types)"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:76
+msgid   "Content on right"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:77
+msgid   "Full width content"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:121
+msgid   "Footer menu"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:126
+msgid   "Full"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:127
+msgid   "Compact"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:128
+msgid   "Mini"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:179
+msgid   "Footer Widgets"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:180
+msgid   "Default post/page"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:185
+msgid   "Light"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:186
+msgid   "Dark"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:394
+msgid   "Body, Paragraph Text"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:404
+msgid   "Page Titles, Heading 1"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:413
+msgid   "Tagline Text, Heading 2"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:422
+msgid   "Section Titles, Widget Titles, Heading 3"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:431
+msgid   "Slider Captions Main (h3)"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:440
+msgid   "Slider Captions Sub (h4)"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:449
+msgid   "Heading 4"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:458
+msgid   "Heading 5"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:467
+msgid   "Main Menu"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:477
+msgid   "Blockquote"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:492 theme/php/PeTheme/PeThemeNeo.php:500
+msgid   "Add New Project"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:493
+msgid   "Search Projects"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:494
+msgid   "Popular Projects"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:495
+msgid   "All Projects"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:496
+msgid   "Parent Project"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:497
+msgid   "Parent Project:"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:498
+msgid   "Edit Project"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:499
+msgid   "Update Project"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:501
+msgid   "New Project Name"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:513
+msgid   "Project Tags"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:542
+msgid   "Skin"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:545
+msgid   "Select Theme Skin"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:551
+msgid   "Logo"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:554
+msgid   "This is the main site logo image. The image should be a .png file with aprox dimensions of 125x100px"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:559
+msgid   "Logo (Small Version)"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:562
+msgid   "This is a small version of the logo which will be used for low resolution viewport devices like phones. The image should be a .png file with aprox dimensions less than or equal to the main logo."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:567
+msgid   "Favicon"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:570
+msgid   "This is the favicon for your site. The image can be a .jpg, .ico or .png with dimensions of 16x16px "
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:577
+msgid   "Google Web Fonts"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:580
+msgid   "In this page you can set the typefaces to be used throughout the theme. For each elements listed below you can choose any front from the Google Web Font library. Once you have chosen a font from the list, you will see a preview of this font immediately beneath the list box. The icons on the right hand side of the font preview, indicate what weights are available for that typeface.<br/><br/><strong>R</strong> -- Regular,<br/><strong>B</strong> -- Bold,<br/><strong>I</strong> -- Italics,<br/><strong>BI</strong> -- Bold Italics<br/><br/>When decideing what font to use, ensure that the chosen font contains the font weight required by the element. For example, main headings are bold, so you need to select a new font for these elements which supports a bold font weight. If you select a font which does not have a bold icon, the font will not be applied. <br/><br/>Browse the online <a href='http://www.google.com/webfonts'>Google Font Library</a>"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:588
+msgid   "Disable width"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:591
+msgid   "Disable background image component when device width is less than this value (in pixels). Disabling the background component in mobile and tablet devices (default) will improve performance."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:603
+msgid   "Call Us."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:605 theme/php/PeTheme/PeThemeNeo.php:613
+msgid   "Header"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:606
+msgid   "Call Us box content."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:611
+msgid   "Tagline Text Content"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:614
+msgid   "This is the text content of the header tagline area which appears on each page. Simple HTML tags are supported. "
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:622
+msgid   "Footer columns layout"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:623
+msgid   "3 Columns (center wide)"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:628
+msgid   "Copyright"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:631
+msgid   "Copyright notice. Simple HTML tags are supported. "
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:636
+msgid   "Social Profile Links"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:639
+msgid   "Add the link to your common social media profiles. Paste links one at a time and click the 'Add New' button. The links will appear in a table below and an icons will be inserted automatically based on the domain in the url."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:645 theme/php/PeTheme/PeThemeNeo.php:647
+msgid   "Widget Areas"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:648
+msgid   "Create new widget areas by entering the area name and clicking the add button. The new widget area will appear in the table below. Once a widget area has been created, widgets may be added via the widgets page."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:653
+msgid   "Projects Per Page"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:656
+msgid   "The number of projects to show in the portfolio single column layout page before a pager is inserted."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:661
+msgid   "Related Projects Number"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:664
+msgid   "The number of projects to show in the related projects section of the project pages."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:673 theme/php/PeTheme/PeThemeNeo.php:681
+msgid   "Custom 404"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:674
+msgid   "Title of 404 (not found) page"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:682
+msgid   "Content of 404 (not found) page"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:719
+msgid   "Action Block"
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:731
+msgid   "This is the content to the right of this page's title (Under the slider). Simple HTML tags are supported."
+msgstr  ""
+
+#: theme/php/PeTheme/PeThemeNeo.php:791
+msgid   "Color Scheme"
+msgstr  ""

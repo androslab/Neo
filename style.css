@@ -1,0 +1,53 @@
+/*
+
+Theme Name: Neo
+Theme URI: http://pixelentity.com
+Description: Neo is a flexible and fully responsive WordPress theme suitable for both business and creative websites. A stylish look, backed up by powerful features means the Neo WordPress theme can effortlessly adapt to the needs to your next project.
+Version: 1.0.4
+Author: Pixelentity
+Author URI: http://themeforest.net/user/pixelentity
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Tags: photoblogging
+*/
+
+/*alignment inside post page content*/
+	.alignright,
+	.alignleft,
+	.aligncenter,
+	.sticky,
+	.wp-caption-text,
+	.wp-caption,
+	.gallery-caption{
+		
+	}
+	
+	.alignright{
+		float:right;
+		clear:right;
+		margin-left:20px;
+		margin-bottom:10px;
+	}
+	
+	.alignleft{
+		float:left;
+		clear:left;
+		margin-right:20px;
+		margin-bottom:10px;
+	}
+	
+	.aligncenter{
+		margin-left:auto;
+		margin-right:auto;
+		margin-bottom:10px;
+	}
+	
+	p.wp-caption-text{
+		margin-top:5px;
+		margin-bottom:0;
+		color:#919191;
+		font-size:11px;
+		font-style:italic;
+	}
+

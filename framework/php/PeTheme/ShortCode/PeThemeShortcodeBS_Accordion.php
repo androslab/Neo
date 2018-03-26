@@ -1,0 +1,66 @@
+<?php
+
+class PeThemeShortcodeBS_Accordion extends PeThemeShortcodeBS_Tabs {
+
+	public function __construct($master) {
+		parent::__construct($master);
+		$this->trigger = "item";
+		$this->group = __pe("LAYOUT");
+		$this->name = __pe("Accordion");
+		$this->description = __pe("Accordion");
+		$this->fields = array(
+							  "size" =>
+							  array(
+									"label" => __pe("Number of items"),
+									"type" => "Select",
+									"single" => true,
+									"description" => __pe("Select the number of items in the accordion."),
+									"options" => range(1,10)
+									)
+							  );
+
+	}
+
+	public function parentTrigger() {
+		add_shortcode("accordion",array(&$this,"container"));		
+	}
+
+	protected function script() {
+		$html = <<<EOT
+<script type="text/javascript">
+jQuery.pixelentity.shortcodes.$this->trigger = jQuery("#{$this->trigger}_size_").peShortcodeProperties({parent:"accordion",tag:"{$this->trigger}",title:"Title"});
+</script>
+EOT;
+		echo $html;
+	}
+
+	public function container($atts,$content=null,$code="") {
+		$this->instances++;
+		$content = $this->parseContent($content);
+		
+		if (!is_array($this->items) || count($this->items) == 0) {
+			return "";
+		}
+
+		$count = 1;
+		$commonID = "accordion".$this->instances;
+		$html = "";
+		while ($item = array_shift($this->items)) {
+			$id = "{$commonID}_{$count}";
+			$html .= '<div class="accordion-group">';
+			$html .= sprintf('<div class="accordion-heading"><a class="accordion-toggle" href="#%s" data-parent="#%s" data-toggle="collapse">%s</a></div>',$id,$commonID,$item->title);
+			$html .= sprintf('<div id="%s" class="accordion-body%s"><div class="accordion-inner">%s</div></div>',$id,$count > 1 ? " collapse": " in",$item->body);
+			$html .= '</div>';
+			$count++;
+		}
+
+
+		$html = sprintf('<div id="%s" class="accordion">%s</div>',$commonID,$html);
+
+		return $html;
+	}
+
+
+}
+
+?>
